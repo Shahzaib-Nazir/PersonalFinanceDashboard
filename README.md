@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-This project uses a kaggle dataset of Walmart sales giving insights to the relation of sales with correspondence to factors such as unemployment rate, fuel prices, temperature and more using Power BI visualizations. First by cleaning the data to remove missing data or wrong entry data in columns, the data was transformed to add month and year columns for filtering the dashboard by a year or month. The data was used to make visualizations with Dark and blue colored theme and multiple KPI's to convey relevant numerical information. The dashboard has been made easy to understand for any type of user to filter it according to thier needs and grasp the trends whether they may be the CEO or a manager for specific stores.
+This dashboard uses data from an excel file that was filled by communication with the client to create meaningful and aesthetic visuals while keeping everything easy to understand as the client was of an older age. The dashboard follows a white and forest green theme. It summarizes the clients expenses and saving which can be filtered by each month of the year showing what are the highest expenses and what months they have saved money or overspent using graphs, pie-charts, bar-charts and multiple KPI's. It also shows the trends on the second page to show how a change in income can affect spending or saving.
+The third page shows the gradual increase in thier savings over the months to understand the increase in thier networth over these months.
 <br />
 
 
@@ -19,10 +20,14 @@ This project uses a kaggle dataset of Walmart sales giving insights to the relat
 
 <p align="center">
 Main Dashboard Overview: <br/>
-<img src="" height="80%" width="80%" alt="Main Dashboard"/>
+<img src="https://i.imgur.com/wEccUY6.png" height="80%" width="80%" alt="Main Dashboard"/>
 <br />
 <br />
-Relationship Trends:  <br/>
-<img src="" height="80%" width="80%" alt="Second page"/>
+Relationship Trends & Report table:  <br/>
+<img src="https://i.imgur.com/Y7CYxKl.png" height="80%" width="80%" alt="Second page"/>
+<br />
+<br />
+Savings Trend:  <br/>
+<img src="https://i.imgur.com/bTv2GgR.png" height="80%" width="80%" alt="Second page"/>
 <br />
 <br />
